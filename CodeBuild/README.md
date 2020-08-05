@@ -1,4 +1,4 @@
-## AWS CodBuild
+## AWS CodeBuild
 
 - [AWS CodeBuild Home](https://aws.amazon.com/codebuild/)
 - [AWS CodeBuild Docs](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
